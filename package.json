@@ -4,7 +4,7 @@
   "//3": "updating this file will download and update your packages",
   "name": "Syrix",
   "version": "0.0.1",
-  "description": "syrix",
+  "description": "syrix1",
   "main": "Syrix.js",
   "scripts": {
     "start": "node Syrix.js"
