@@ -4,7 +4,7 @@
   "//3": "updating this file will download and update your packages",
   "name": "Syrix",
   "version": "0.0.1",
-  "description": "Syrix kayıt Botu",
+  "description": "syrix",
   "main": "Syrix.js",
   "scripts": {
     "start": "node Syrix.js"
